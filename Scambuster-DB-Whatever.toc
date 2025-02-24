@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: Scambuster-Whitemane-FM
+## Notes: DB addon for Scambuster
+## Author: HalfBakedDruid
+## Version: 1.0.0
+## DefaultState: enabled
+## Dependencies: Scambuster
+
+
+LibStub.lua
+settings.lua
+list.lua
+core.lua
