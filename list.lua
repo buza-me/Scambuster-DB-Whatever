@@ -509,6 +509,48 @@ t.realm_data["Whitemane"]["Frostmourne"] = {
     description = "blood dk from asc3 literally brainless",
     url = "https://discord.com/channels/1255592231625031770/1257449864346734703/1343236289734115410",
   },
+  {
+    name = "Raizzen",
+    guid = nil,
+    category = "dungeon",
+    description = "4 icy touch in a 5min encounter",
+    url = "https://discord.com/channels/1255592231625031770/1257449864346734703/1344066791030132849",
+  },
+  {
+    name = "Szama",
+    guid = nil,
+    category = "dungeon",
+    description = "enha deals less dps than tank",
+    url = "https://discord.com/channels/1255592231625031770/1257449864346734703/1344313983837933642",
+  },
+  {
+    name = "Stg",
+    guid = nil,
+    category = "dungeon",
+    description = "Warrior with DBW cryptmaker shadows edge doing 5k dps",
+    url = "https://discord.com/channels/1255592231625031770/1257449864346734703/1344644142357155851",
+  },
+  {
+    name = "Shartiel",
+    guid = nil,
+    category = "other",
+    description = "dk tank without meele haste, 0 horn of winter",
+    url = "https://discord.com/channels/1255592231625031770/1257449864346734703/1345096387465056357",
+  },
+  {
+    name = "Memurio",
+    guid = nil,
+    category = "dungeon",
+    description = "prot pal who is refused to buff kings after hunter pulled whole pack and started to shit talk in spanish",
+    url = "https://discord.com/channels/1255592231625031770/1257449864346734703/1346612629304512613",
+  },
+  {
+    name = "Rexoz",
+    guid = nil,
+    category = "dungeon",
+    description = "crying for loot on his first guild run,then leaving mid raid.",
+    url = "https://discord.com/channels/1255592231625031770/1257449864346734703/1347528225735049276",
+  },
 }
 
 --=========================================================================================
